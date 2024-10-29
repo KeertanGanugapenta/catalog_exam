@@ -145,14 +145,6 @@ The output will display the constant term (or "secret") for each test case.
 ### Example Output
 
 ```
-The Secret for testcase1.json is: 4
+The Secret for testcase1.json is: 3
 The Secret for testcase2.json is: 79836263940096
 ```
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-Feel free to modify the repository link and any other parts as necessary to fit your project!
