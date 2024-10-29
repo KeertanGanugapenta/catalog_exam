@@ -106,7 +106,7 @@ The goal is to find the constant term \( c \) of the polynomial using the given 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/secret-sharing-finder.git
+   git clone https://github.com/KeertanGanugapenta/catalog_exam.git
    cd secret-sharing-finder
    ```
 
