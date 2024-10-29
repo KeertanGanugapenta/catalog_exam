@@ -102,16 +102,6 @@ The goal is to find the constant term \( c \) of the polynomial using the given 
 
 - [Node.js](https://nodejs.org/) installed on your system.
 
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/KeertanGanugapenta/catalog_exam.git
-   cd secret-sharing-finder
-   ```
-
-2. Install any dependencies (none required for this code to run directly).
-
 ### JSON Input Format
 
 Each input file (e.g., `testcase1.json`, `testcase2.json`) must contain:
@@ -137,12 +127,10 @@ To execute the code and calculate the secrets:
 
 2. Run the following command:
    ```bash
-   node index.js
+   node script.js
    ```
 
-The output will display the constant term (or "secret") for each test case.
-
-### Example Output
+### The Output 
 
 ```
 The Secret for testcase1.json is: 3
